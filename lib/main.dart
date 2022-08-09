@@ -2,7 +2,7 @@ import 'dart:io';
 import 'app_theme.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'fitness_app/ago_home_screen.dart';
+import 'ago/ago_home_screen.dart';
 import 'package:flutter/foundation.dart' show kIsWeb;
 
 void main() async {
