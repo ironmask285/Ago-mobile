@@ -67,10 +67,7 @@ flutter:
   #   - images/a_dot_ham.jpeg
   assets:
       - assets/images/
-      - assets/design_course/
-      - assets/fitness_app/
-      - assets/hotel/
-      - assets/introduction_animation/
+      - assets/ago_app/
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
 
